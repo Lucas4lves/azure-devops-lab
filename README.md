@@ -12,6 +12,8 @@
 ├── README.md
 ├── helm
 │   └── charts
+│       └── keda
+│           └── placeholder.yml
 ├── infrastructure
 │   ├── computing
 │   │   ├── main.tf
@@ -22,4 +24,5 @@
 │       ├── outputs.tf
 │       └── variables.tf
 └── live-environments
+    └── placeholder.tf
  ```
